@@ -1,2 +1,10 @@
 language: ruby
 script: "bundle exec jekyll build"
+
+notifications:
+  email:
+    recipients:
+      - eric@sunlightfoundation.com
+      - tauberer@govtrack.us
+    on_success: change
+    on_failure: change
