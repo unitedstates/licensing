@@ -8,3 +8,7 @@ notifications:
       - tauberer@govtrack.us
     on_success: change
     on_failure: change
+
+branches:
+  only:
+    - gh-pages
