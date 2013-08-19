@@ -1,3 +1,3 @@
 markdown: kramdown
 
-exclude: ["Gemfile", "Gemfile.lock"]
+exclude: ["Gemfile", "Gemfile.lock", "README.md"]
