@@ -1,3 +1,10 @@
+---
+layout: default
+permalink: /
+filename: index.md
+---
+
+
 ### Open Government Data: Best-Practices Language for Making Data "License-Free"
 
 Public government data is becoming an increasingly important part of the modern free press, industries from weather forecasting to business intelligence, and the repertoire of tools that can increase the efficiency of government services and support civic participation.
