@@ -5,25 +5,21 @@ filename: index.md
 ---
 
 
-### Open Government Data: Best-Practices Language for Making Data "License-Free"
+### Open Government Data: Best-Practices Language for Making Data “License-Free”
 
 Public data generated or commissioned by government bodies is becoming an increasingly important part of the public sphere — from new forms of civic participation, journalism, transparency and accountability to new opportunities for innovation and growth.	
 
-The United States has a long legal tradition of ensuring that public information created by Federal government employees is exempt from U.S. copyright and remains free for everyone to use without restriction.
+As open data guidelines evolve to meet current practices, including new goals from the White House and the increasing role of government contractors in the production of public government data, we think it is essential that government agencies have the tools to preserve the United States's long legal tradition of ensuring that public information created by the federal government is exempt from U.S. copyright and remains free for everyone to use without restriction.
 
-Furthermore, leading open data standards and principles, such as the 2007 ‘8 Principles of Open Government Data’, state that official data publishers should place no restrictions on the reuse of government information.
-
-We think it is essential that public information remains in the public domain, and there are no legal restrictions on its use by the public worldwide. Hence we think that the principle that applies to public data from Federal government should be applied to information at all levels of government - and all US government information should be explicitly dedicated to the public domain, and marked as such.
-
-Open government data has been defined in many ways. [One definition][1] uses eight core principles. As a definition, it does not attempt to say what should be open but rather articulates the consensus understanding of what it means to be open. One principle, in its simplest form, states that open government data is "license-free," or in other words that the data has no restrictions on use except as set forth in law.
+Leading open data standards and principles, such as the 2007 [8 Principles of Open Government Data][1], have established that the absense of restrictions on the reuse of government information is a core part of promoting good government and entrepreneurial innovation. When there are no restrictions on the reuse of government data, the data is said to be “license-free”. To the greatest extent possible, we strongly believe public government data should be “license-free”.
 
 **This document provides language to affix to data publications so that they may meet, or to make it clear that they meet, the criteria of the “license-free” principle. The language is intended for U.S. federal government agencies.**
 
 #### What You Need to Know
 
-1. Data is “license-free” only if a) copyright, and similar laws do not apply or have been waived, and b) there are no restrictions on use/sharing of the data except as set forth in existing law.
-2. Copyright applies to some government data but not others (and never to the law itself). When it applies, it should be waived so that the public can use it without restriction.
-3. When there is a choice, government data should be dedicated to the public domain and not licensed. Licensing (including open licensing) builds on copyright and other related rights, which should not exist in US public data in the first place.
+1. Data is “license-free” only if a) copyright, and similar laws do not apply or have been waived, and b) there are no restrictions on use or sharing of the data except as set forth in existing law.
+2. Copyright applies to some government data but not others (and never to U.S. law). When it applies to public information, it should be waived so that the public can use it without restriction.
+3. Government data should be dedicated to the public domain and not licensed. Licensing (including open licensing) builds on copyright and other related rights, and the use of licensing is contrary to the long tradition that federal government data is in the public domain.
 4. Data is more valuable when it is clear that there is a green light enabling reuse.
 5. [Foreign copyright may apply to any government data.][2] A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
 6. The [Creative Commons CC0 Public Domain Dedication][3] is a widely adopted legal tool allowing a creator to dedicate his/her work to the public domain worldwide. CC0 waives any and all domestic and foreign copyright protections and related rights over a work to whatever extent that they can be waived.
