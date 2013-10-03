@@ -11,7 +11,7 @@ Public data generated or commissioned by government bodies is becoming an increa
 
 As open data guidelines evolve to meet current practices, including new goals from the White House and the increasing role of government contractors in the production of public government data, we think it is essential that U.S. federal government agencies have the tools to preserve the United States's long legal tradition of ensuring that public information created by the federal government is exempt from U.S. copyright and remains free for everyone to use without restriction.
 
-Leading open data standards and principles, such as the 2007 [8 Principles of Open Government Data][1], have established that the absense of restrictions on the reuse of government information is a core part of promoting good government and entrepreneurial innovation. When there are no restrictions on the reuse of government data, the data is said to be “license-free”. To the greatest extent possible, we strongly believe U.S. public government data should be “license-free”.
+Leading open data standards and principles, such as the 2007 [8 Principles of Open Government Data][1], have established that the absence of restrictions on the reuse of government information is a core part of promoting good government and entrepreneurial innovation. When there are no restrictions on the reuse of government data, the data is said to be “license-free”. To the greatest extent possible, we strongly believe U.S. public government data should be “license-free”.
 
 **This document provides language to affix to data publications so that they may meet, or to make it clear that they meet, the criteria of the “license-free” principle. The language is intended for U.S. federal government agencies.**
 
