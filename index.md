@@ -7,7 +7,7 @@ filename: index.md
 
 ### Open Government Data: Best-Practices Language for Making Data “License-Free”
 
-Public data generated or commissioned by government bodies is becoming an increasingly important part of the public sphere — from new forms of civic participation, journalism, transparency and accountability to new opportunities for innovation and growth.	
+Public data generated or commissioned by government bodies is becoming an increasingly important part of the public sphere — from new forms of civic participation, journalism, transparency and accountability to new opportunities for innovation and growth.
 
 As open data guidelines evolve to meet current practices, including new goals from the White House and the increasing role of government contractors in the production of public government data, we think it is essential that U.S. federal government agencies have the tools to preserve the United States's long legal tradition of ensuring that public information created by the federal government is exempt from U.S. copyright and remains free for everyone to use without restriction.
 
@@ -36,7 +36,7 @@ Copyright protection is not available for works of the United States Government 
 
 It is incumbent on the agency to attempt to determine the intellectual property status of any work it publishes as open data. If the status of a work is unclear, it should be clearly marked as not open, such as with a notice that the work may not be a work of the United States Government.
 
-When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of the [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free” and thus might not be considered open. In that case, non-open data should be clearly marked in a machine-processable manner.
+When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above.In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of the [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
 
 *WhiteHouse.gov uses this mixed approach at http://www.whitehouse.gov/copyright.*
 
