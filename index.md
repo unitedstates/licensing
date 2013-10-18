@@ -36,11 +36,11 @@ Copyright protection is not available for works of the United States Government 
 
 It is incumbent on the agency to attempt to determine the intellectual property status of any work it publishes as open data. If the status of a work is unclear, it should be clearly marked as such, such as with a notice that the work may not be a work of the United States Government.
 
-When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above.In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of the [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
+When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of the [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
 
 *The White House's [Project Open Data](http://project-open-data.github.io/) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](http://www.whitehouse.gov/) also uses a mixed approach at [http://www.whitehouse.gov/copyright](http://www.whitehouse.gov/copyright).*
 
-If a statutory exemption to 17 USC § 105 is applicable:
+If a statutory exemption to 17 USC § 105 is applicable, use:
 
 > This is a work of the United States Government that is exempt from 17 USC § 105. However, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
