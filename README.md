@@ -2,7 +2,7 @@
 
 The public home of recommendations, example language, and best practices for licensing government data.
 
-Read [the document](http://unitedstates.github.io/licensing/), and feel free to [contribute improvements](#).
+Read [the document](http://theunitedstates.io/licensing/), and feel free to contribute improvements.
 
 #### Work in Progress
 
