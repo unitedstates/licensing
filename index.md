@@ -9,11 +9,11 @@ filename: index.md
 
 Public data generated or commissioned by government bodies is becoming an increasingly important part of the public sphere — from new forms of civic participation, journalism, transparency and accountability to new opportunities for innovation and growth.
 
-As open data guidelines evolve to meet current practices, including new goals from the White House and the increasing role of government contractors in the production of public government data, we think it is essential that U.S. federal government agencies have the tools to preserve the United States's long legal tradition of ensuring that public information created by the federal government is exempt from U.S. copyright and remains free for everyone to use without restriction.
+As open data guidelines evolve to meet current practices, including new goals from the White House and the increasing role of government contractors in the production of public government data, it is essential that U.S. federal government agencies have the tools to preserve the United States' long legal tradition of ensuring that public information created by the federal government is exempt from U.S. copyright and remains free for everyone to use without restriction.
 
-Leading open data standards and principles, such as the 2007 [8 Principles of Open Government Data][1], have established that the absence of restrictions on the reuse of government information is a core part of promoting good government and entrepreneurial innovation. When there are no restrictions on the reuse of government data, the data is said to be “license-free”. To the greatest extent possible, we strongly believe U.S. public government data should be “license-free”.
+Leading open data standards and principles, such as the [8 Principles of Open Government Data][1], have established that the absence of restrictions on the reuse of government information is a core part of promoting good government and entrepreneurial innovation. When there are no restrictions on the reuse of government data, the data is said to be “license-free”. To the greatest extent possible, we strongly believe U.S. public government data should be “license-free”.
 
-**This document provides language to affix to data publications so that they may meet, or to make it clear that they meet, the criteria of the “license-free” principle. The language is intended for U.S. federal government agencies.**
+**This document provides language to affix to data publications so that they may meet, and/or make it clear that they meet, the criteria of the “license-free” principle. The language is intended for U.S. federal government agencies.**
 
 #### What You Need to Know
 
@@ -36,7 +36,7 @@ Copyright protection is not available for works of the United States Government 
 
 It is incumbent on the agency to attempt to determine the intellectual property status of any work it publishes as open data. If the status of a work is unclear, it should be clearly marked as such, such as with a notice that the work may not be a work of the United States Government.
 
-When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of the [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
+When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
 
 *The White House's [Project Open Data](http://project-open-data.github.io/) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](http://www.whitehouse.gov/) also uses a mixed approach at [http://www.whitehouse.gov/copyright](http://www.whitehouse.gov/copyright).*
 
@@ -46,7 +46,7 @@ If a statutory exemption to 17 USC § 105 is applicable, use:
 
 #### For Government Works Produced by a Contractor
 
-Works produced under a contract with the government are typically subject to copyright protection. If the contract provides that ownership of the work is transferred to the government, use:
+Works produced under a contract with the government may be subject to copyright protection. To the extent necessary, any such contract should specify that any copyright in the work is transferred to the government. Works can then be shared with the following language:
 
 > This work was created through a government contract which assigned copyright to [the United States Government or Agency name]. However, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -54,15 +54,15 @@ Or if copyright remains with the contractor, use:
 
 > This work was produced by [Contractor Name] in the performance of a contract with [Agency Name] (contract number [contract number]). [Contractor Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
-Note that not all data is copyrightable. For instance, in the United States facts cannot be copyrighted. You should avoid implying copyright exists on works that are not within the domain of copyright law. However, use of the CC0 waiver is appropriate when there is any ambiguity.
+Note that most data is not copyrightable as such, though compilations of same may be copyrightable. For instance, in the United States facts cannot be copyrighted. You should avoid implying copyright exists on works that are not within the domain of copyright law. However, use of the CC0 waiver is appropriate when there is any ambiguity.
 
 #### For Primary Legal Materials
 
 The courts have ruled that the law — i.e. edicts of government — is not protected by copyright (see Banks v. Manchester, 128 U.S. 244, 253 (1888) and other cases). This has also been [the position of the U.S. Copyright Office][5].
 
-For federal government primary legal materials, the language for federal government works listed above will typically suffice. For other aspects of law that do not fall into one of the categories above, such as standards incorporated by reference, we recommend the following:
+For federal government primary legal materials, the language for federal government works listed above will typically suffice. For avoidance of doubt, if the law includes components that may not clearly fall into one of the categories above, such as standards incorporated by reference, we recommend the following:
 
-> This work contains laws, which are not subject to U.S. copyright protection. Additionally, [Body] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
+> This work contains laws, which are not subject to U.S. copyright protection. For avoidance of doubt, [Body] expressly waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
 When publishing laws along side annotations in which copyright protections are asserted, we strongly recommend publishing an un-annotated copy of the law with the statement above.
 
@@ -101,6 +101,9 @@ Ellen Miller<br/>
 
 Joseph Lorenzo Hall<br/>
 *[Center for Democracy and Technology](https://www.cdt.org/)*
+
+Parker Higgins<br/>
+*[Electronic Frontier Foundation](https://www.eff.org)*
 
 \* Affiliation is for identification purposes only.
 
