@@ -1,37 +1,41 @@
+
+/* reverse the commenting of the next two lines to turn nav on/off */
+/*body, header {min-width: 1250px;}*/
+nav {display: none;}
+/*header {display: none;}*/
+
+.main, header {width: 100%;}
+.main .inner, header .inner {
+  width: 700px; margin: 0 auto;
+}
+
+header, nav ul {background-color: #e5e5e5;}
+
+
 body {
+  color: #111;
   font-family: "Average", "Georgia", serif;
   font-size: 12pt;
   line-height: 22px;
   margin: 0; padding: 0;
 }
 
-h3 {
-  font-size: 24pt;
-  line-height: 48px;
-}
+h2 {font-size: 24pt; margin-top: 0px; padding-top: 30px;}
+h3 {font-size: 20pt; margin-top: 0;}
+h4 {font-size: 16pt; margin-top: 0;}
 
-main {
-  width: 700px;
-  margin: 0 auto;
-  padding: 30px 0 20px 0;
-}
+.main .inner {padding-bottom: 20px;}
 
 header {
-  xfont-family: "Open Sans", Arial, sans-serif;
-  position: fixed;
-  top: 0;
   height: 40px;
-  background: #ccc;
-  color: #111;
-  width: 100%;
-  border-bottom: 1px solid #777;
-}
+  top: 0;
 
-header .inner {
-  width: 700px;
-  margin: 0 auto;
+  border-bottom-width: 1px;
+} header .inner {
   position: relative;
 }
+
+/*h4:target {padding-top: 70px;}*/
 
 header p {
   position: absolute;
@@ -45,8 +49,45 @@ header a {
   display: inline-block;
   margin: 0; margin-top: 10px;
   right: 0;
-  color: #036; font-weight: bold;
-  text-decoration: none;
 }
 
-header a:hover {text-decoration: underline;}
+header a, nav p a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #036;
+}
+
+header a:hover, nav p a:hover {
+  text-decoration: underline;
+  color: #111;
+}
+
+
+/* floating nav */
+
+/* reset list stuff */
+ul, ol, li {margin: 0; padding: 0; list-style-type: none;}
+
+nav {
+  width: 200px; margin-left: -240px;
+  float: left; position: fixed;
+  margin-top: 25px;
+}
+
+nav ul {border: 1px solid #999; line-height: 14px;}
+nav ul li {font-size: 12pt; line-height: 22px;}
+nav ul li a {
+  display: block;
+  padding: 7px 10px;
+  text-decoration: none;
+  color: #111;
+}
+nav ul li:hover a {
+  background-color: #888; color: #f5f5f5;
+}
+nav ul li.active a {
+  color: #f5f5f5;
+  background-color: #444;
+}
+
+nav p {padding: 5px 10px;}

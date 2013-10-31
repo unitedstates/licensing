@@ -30,9 +30,90 @@
   </div>
 </header>
 
-<main>
-  {{ content }}
-</main>
+<div class="main" role="main">
+  <div class="inner">
+    <nav>
+      <ul>
+        <li class="active"><a href="#open-government-data">
+          Open Government Data
+        </a></li>
+        <li><a href="#what-you-need-to-know">
+          What You Need To Know
+        </a></li>
+        <li><a href="#for-us-federal-government-works">
+          For U.S. Federal Government Works
+        </a></li>
+        <li><a href="#for-government-works-produced-by-a-contractor">
+          For Government Works Produced by a Contractor
+        </a></li>
+        <li><a href="#for-primary-legal-materials">
+          For Primary Legal Materials
+        </a></li>
+        <li><a href="#additional-notes">
+          Additional Notes
+        </a></li>
+        <li><a href="#contributors-and-supporters">
+          Contributors and Supporters
+        </a></li>
+      </ul>
+
+      <p>
+        Guidance for releasing public government data in the United States.
+      </p>
+
+      <p>
+        <a href="http://prose.io/#unitedstates/licensing/edit/gh-pages/index.md">
+          Suggest Changes
+        </a>
+      </p>
+
+    </nav>
+
+    {{ content }}
+  </div>
+</div>
+
+<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+<script type="text/javascript">
+$(function() {
+  var navLinks = $("nav ul li a").get().reverse();
+  var navItems = $("nav ul li");
+  var navTop = $("nav ul li:first-child");
+  var winHeight = $(window).height();
+  var winOffset = (winHeight / 2) - 50;
+
+
+  $.event.add(window, "scroll", function() {
+    var p = $(window).scrollTop();
+
+    var found = false;
+    $.each(navLinks, function(i, link) {
+      var li = $(link.parentNode);
+      link = $(link);
+      var anchor = link.attr("href");
+      var location = $(
+        "h2" + anchor +
+        ",h3" + anchor +
+        ",h4" + anchor
+      ).offset().top;
+      if (location < (p + winOffset)) {
+        if (!link.hasClass("active")) {
+          navItems.removeClass("active");
+          li.addClass("active");
+        }
+        found = true;
+        return false;
+      }
+    });
+    if (!found) {
+      if (!navTop.hasClass("active")) {
+        navItems.removeClass("active");
+        navTop.addClass("active");
+      }
+    }
+  });
+});
+</script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
