@@ -5,7 +5,9 @@ filename: index.md
 ---
 
 
-### Open Government Data: Best-Practices Language for Making Data “License-Free”
+## Open Government Data
+
+### Best-Practices Language for Making Data “License-Free”
 
 Public data generated or commissioned by government bodies is becoming an increasingly important part of the public sphere — from new forms of civic participation, journalism, transparency and accountability to new opportunities for innovation and growth.
 
