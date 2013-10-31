@@ -1,8 +1,8 @@
 
 /* reverse the commenting of the next two lines to turn nav on/off */
-/*body, header {min-width: 1250px;}*/
-nav {display: none;}
-/*header {display: none;}*/
+body, header {min-width: 1250px;}
+/*nav {display: none;}*/
+header {display: none;}
 
 .main, header {width: 100%;}
 .main .inner, header .inner {
@@ -21,8 +21,8 @@ body {
 }
 
 h2 {font-size: 24pt; margin-top: 0px; padding-top: 30px;}
-h3 {font-size: 20pt; margin-top: 0;}
-h4 {font-size: 16pt; margin-top: 0;}
+h3 {font-size: 20pt; margin-top: 0; padding-top: 30px;}
+h4 {font-size: 16pt; margin-top: 0; padding-top: 30px;}
 
 .main .inner {padding-bottom: 20px;}
 
