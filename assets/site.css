@@ -5,7 +5,7 @@ body {
   color: #111;
   font-family: "Average", "Georgia", serif;
   font-size: 12pt;
-  line-height: 22px;
+  line-height: 23px;
   margin: 0; padding: 0;
 }
 
@@ -18,7 +18,9 @@ body {
 /* sidebar nav */
 
 /* reset list stuff */
-ul, ol, li {margin: 0; padding: 0; list-style-type: none;}
+nav ul, nav ol, nav li {
+  margin: 0; padding: 0; list-style-type: none;
+}
 
 nav {
   width: 200px; margin-left: -240px;
@@ -61,6 +63,7 @@ nav p a:hover {
 
 /* document styling */
 
-h2 {font-size: 24pt; margin-top: 0px; padding-top: 30px;}
-h3 {font-size: 20pt; margin-top: 0; }
-h4 {font-size: 16pt; margin-top: 0; padding-top: 30px;}
+article h2 {font-size: 24pt; margin-top: 0px; padding-top: 30px; margin-bottom: 20px;}
+article h3 {font-size: 18pt; margin-top: 0;}
+article h4 {font-size: 16pt; margin-top: 0; padding-top: 30px; margin-bottom: 10px;}
+article a {color: #036;}
