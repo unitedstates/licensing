@@ -1,8 +1,8 @@
 
 /* reverse the commenting of the next two lines to turn nav on/off */
-body, header {min-width: 1250px;}
-/*nav {display: none;}*/
-header {display: none;}
+/*body, header {min-width: 1250px;}*/
+nav {display: none;}
+/*header {display: none;}*/
 
 .main, header {width: 100%;}
 .main .inner, header .inner {
