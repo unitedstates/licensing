@@ -4,6 +4,4 @@ The public home of recommendations, example language, and best practices for lic
 
 Read [the document](http://theunitedstates.io/licensing/), and feel free to contribute improvements.
 
-#### Work in Progress
-
-This repository is still in-progress - if you stumble across it, feel free to mention it, but know that it is still potentially ugly and incomplete!
+> [http://theunitedstates.io/licensing](http://theunitedstates.io/licensing/)
