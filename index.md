@@ -48,7 +48,7 @@ If a statutory exemption to 17 USC § 105 is applicable, use:
 
 #### For Government Works Produced by a Contractor
 
-Works produced under a contract with the government may be subject to copyright protection. To the extent necessary, any such contract should specify that any copyright in the work is transferred to the government. Works can then be shared with the following language:
+Works produced under a contract with the government may be subject to copyright protection. Any such contract should specify that any copyright in the work is transferred to the government. Works can then be shared with the following language:
 
 > This work was created through a government contract which assigned copyright to [the United States Government or Agency name]. [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
 
@@ -62,9 +62,9 @@ Note that most data is not copyrightable as such, though compilations of same ma
 
 The courts have ruled that the law — i.e. edicts of government — is not protected by copyright (see Banks v. Manchester, 128 U.S. 244, 253 (1888) and other cases). This has also been [the position of the U.S. Copyright Office][5].
 
-For federal government primary legal materials, the language for federal government works listed above will typically suffice. For avoidance of doubt, if the law includes components that may not clearly fall into one of the categories above, such as standards incorporated by reference, we recommend the following:
+For federal government primary legal materials, the language for federal government works listed above will typically suffice. For avoidance of doubt and to ensure unrestricted availability worldwide, if the law includes components that may not clearly fall into one of the categories above, such as standards incorporated by reference, we recommend the following:
 
-> This work contains laws, which are not subject to U.S. copyright protection. For avoidance of doubt, [Body] expressly waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> This work contains laws, which are not subject to U.S. copyright protection. For avoidance of doubt and to ensure unrestricted availability worldwide, [Body] expressly waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
 
 When publishing laws along side annotations in which copyright protections are asserted, we strongly recommend publishing an un-annotated copy of the law with the statement above.
 
