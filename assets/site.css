@@ -25,7 +25,7 @@ nav ul, nav ol, nav li {
 nav {
   width: 200px; margin-left: -240px;
   float: left; position: fixed;
-  margin-top: 25px;
+  margin-top: 28px;
 }
 
 nav ul {
@@ -63,7 +63,9 @@ nav p a:hover {
 
 /* document styling */
 
-article h2 {font-size: 24pt; margin-top: 0px; padding-top: 30px; margin-bottom: 20px;}
+article h2 {font-size: 24pt; margin-top: 0px; margin-bottom: 20px;}
 article h3 {font-size: 18pt; margin-top: 0;}
 article h4 {font-size: 16pt; margin-top: 0; padding-top: 30px; margin-bottom: 10px;}
 article a {color: #036;}
+
+article p.dateline {margin-bottom: 10px; text-align: right; color: #444;}
