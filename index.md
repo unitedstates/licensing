@@ -112,3 +112,9 @@ Michael Weinberg<br/>
 *[Public Knowledge](http://publicknowledge.org/)*
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
+
+#### History
+
+August 19, 2013. First published.
+
+December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Added OKFN (removed the asterisk), EFF, and PK.
