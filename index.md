@@ -96,7 +96,7 @@ Eric Mill<br/>
 *[Sunlight Foundation](http://sunlightfoundation.com)*
 
 Jonathan Gray<br/>
-*[Open Knowledge Foundation](http://okfn.org)* *
+*[Open Knowledge Foundation](http://okfn.org)*
 
 Ellen Miller<br/>
 *[Sunlight Foundation](http://sunlightfoundation.com)*
@@ -107,6 +107,7 @@ Joseph Lorenzo Hall<br/>
 Parker Higgins<br/>
 *[Electronic Frontier Foundation](https://www.eff.org)*
 
-\* Affiliation is for identification purposes only.
+Michael Weinberg<br/>
+*[Public Knowledge](http://publicknowledge.org/)*
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
