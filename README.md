@@ -1,10 +1,12 @@
-### Best Practices for Licensing Open Government Data
+## Best Practices for Licensing Open Government Data
 
 The public home of recommendations, example language, and best practices for the licensing of US government data.
 
-Read the document at [theunitedstates.io/licensing](http://theunitedstates.io/licensing/), and feel free to [suggest and contribute improvements](https://github.com/unitedstates/licensing/issues).
+### Read the document at [theunitedstates.io/licensing](http://theunitedstates.io/licensing/).
 
-#### History of this document
+And feel free to [suggest improvements](https://github.com/unitedstates/licensing/issues)!
+
+### History of this document
 
 Some background on this document and why it exists, in rough chronological order.
 
