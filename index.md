@@ -81,7 +81,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 
 "Open licensing" presumes copyright protection. Note that the CC0 Public Domain Dedication is, mostly, not a license but rather a waiver. Be careful not to call use of CC0 "open licensing." Where the waiver within CC0 is ineffective for any reason, CC0 contains a fallback public license that permits worldwide reuse.
 
-[1]: http://opengovdata.io "Open Government Working Group 2007"
+[1]: https://public.resource.org/8_principles.html "Open Government Working Group 2007"
 [2]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
 [3]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
 [4]: http://opendefinition.org/
