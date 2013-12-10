@@ -108,7 +108,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 
 #### Supporters
 
-* [GovTrack.us](http://www.govtrack.us)
+* [GovTrack.us](https://www.govtrack.us)
 * [Sunlight Foundation](http://sunlightfoundation.com)
 * [Open Knowledge Foundation](http://okfn.org)
 * [Electronic Frontier Foundation](https://www.eff.org)
