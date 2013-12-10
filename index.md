@@ -1,8 +1,10 @@
 ---
 layout: default
 permalink: /
-filename: index.md
 ---
+
+December 12, 2013
+{:.dateline}
 
 ## Open Government Data
 
@@ -86,33 +88,34 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 [5]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
 [6]: http://opendatacommons.org/licenses/pddl/
 
-#### Contributors and Supporters
+#### Authors
 
-Joshua Tauberer<br/>
-*[GovTrack.us](http://www.govtrack.us)*
+* [Joshua Tauberer](http://razor.occams.info), GovTrack.us (primary author)
+* [Eric Mill](https://twitter.com/konklone), Sunlight Foundation
+* Jonathan Gray, Open Knowledge Foundation
+* Parker Higgins, Electronic Frontier Foundation
+* Michael Weinberg, Public Knowledge
+{:.contributors.people}
 
-Eric Mill<br/>
-*[Sunlight Foundation](http://sunlightfoundation.com)*
+#### Supporters
 
-Jonathan Gray<br/>
-*[Open Knowledge Foundation](http://okfn.org)*
-
-Ellen Miller<br/>
-*[Sunlight Foundation](http://sunlightfoundation.com)*
-
-Joseph Lorenzo Hall<br/>
-*[Center for Democracy and Technology](https://www.cdt.org/)*
-
-Parker Higgins<br/>
-*[Electronic Frontier Foundation](https://www.eff.org)*
-
-Michael Weinberg<br/>
-*[Public Knowledge](http://publicknowledge.org/)*
+* [GovTrack.us](http://www.govtrack.us)
+* [Sunlight Foundation](http://sunlightfoundation.com)
+* [Open Knowledge Foundation](http://okfn.org)
+* [Electronic Frontier Foundation](https://www.eff.org)
+* [Public Knowledge](http://publicknowledge.org/)
+* [Center for Democracy and Technology](https://www.cdt.org/)
+* [Free Law Project](http://freelawproject.org/)
+* [OpenGov Foundation](http://opengovfoundation.org/)
+* Carl Malamud, [Public.Resource.Org](https://public.resource.org/)
+* Jim Harper, [WashingtonWatch.com](http://www.washingtonwatch.com/)
+{:.supporters.people}
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
+{:.small}
 
 #### History
 
-August 19, 2013. First published.
+[August 19, 2013](v1.html). First published.
 
-December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Added OKFN (removed the asterisk), EFF, and PK.
+December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Updated signers list.
