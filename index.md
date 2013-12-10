@@ -4,6 +4,9 @@ permalink: /
 filename: index.md
 ---
 
+December 12, 2013
+{:.dateline}
+
 ## Open Government Data
 
 ### Best-Practices Language for Making Data “License-Free”
@@ -86,27 +89,31 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 [5]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
 [6]: http://opendatacommons.org/licenses/pddl/
 
-#### Contributors and Supporters
+#### Contributors
 
-Joshua Tauberer, *[GovTrack.us](http://www.govtrack.us)*
+* Joshua Tauberer, [GovTrack.us](http://www.govtrack.us) (primary author)
+* Eric Mill, [Sunlight Foundation](http://sunlightfoundation.com)
+* Jonathan Gray, [Open Knowledge Foundation](http://okfn.org)
+* Parker Higgins, [Electronic Frontier Foundation](https://www.eff.org)
+* Michael Weinberg, [Public Knowledge](http://publicknowledge.org/)
+{:.contributors.people}
 
-Eric Mill, *[Sunlight Foundation](http://sunlightfoundation.com)*
+#### Supporters
 
-Jonathan Gray, *[Open Knowledge Foundation](http://okfn.org)*
-
-Parker Higgins, *[Electronic Frontier Foundation](https://www.eff.org)*
-
-Michael Weinberg, *[Public Knowledge](http://publicknowledge.org/)*
-
-*[Center for Democracy and Technology](https://www.cdt.org/)*
-
-*[Free Law Project](http://freelawproject.org/)*
-
-*[OpenGov Foundation](http://opengovfoundation.org/)*
-
-*[Public.Resource.Org](https://public.resource.org/)*
+* [GovTrack.us](http://www.govtrack.us)
+* [Sunlight Foundation](http://sunlightfoundation.com)
+* [Open Knowledge Foundation](http://okfn.org)
+* [Electronic Frontier Foundation](https://www.eff.org)
+* [Public Knowledge](http://publicknowledge.org/)
+* [Center for Democracy and Technology](https://www.cdt.org/)
+* [Free Law Project](http://freelawproject.org/)
+* [OpenGov Foundation](http://opengovfoundation.org/)
+* Carl Malamud, [Public.Resource.Org](https://public.resource.org/)
+* Jim Harper, [WashingtonWatch.com](http://www.washingtonwatch.com/)
+{:.supporters.people}
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
+{:.small}
 
 #### History
 
