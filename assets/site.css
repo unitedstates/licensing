@@ -80,8 +80,13 @@ article h4 {font-size: 16pt; margin-top: 0; padding-top: 30px; margin-bottom: 10
 article a {color: #036;}
 
 article blockquote {padding: 1px 0;} /* 1px triggers a much bigger pad */
-
 article blockquote {color: #444; font-style: italic;}
+article .example {
+  font-style: italic;
+  background-color: #eeeeee;
+  border: 0px solid #ddd;
+  padding: 5px 10px;
+}
 
 article p.dateline {
   text-align: right;
