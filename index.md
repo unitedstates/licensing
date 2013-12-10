@@ -88,26 +88,21 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 
 #### Contributors and Supporters
 
-Joshua Tauberer<br/>
-*[GovTrack.us](http://www.govtrack.us)*
+Joshua Tauberer, *[GovTrack.us](http://www.govtrack.us)*
 
-Eric Mill<br/>
-*[Sunlight Foundation](http://sunlightfoundation.com)*
+Eric Mill, *[Sunlight Foundation](http://sunlightfoundation.com)*
 
-Jonathan Gray<br/>
-*[Open Knowledge Foundation](http://okfn.org)*
+Jonathan Gray, *[Open Knowledge Foundation](http://okfn.org)*
 
-Ellen Miller<br/>
-*[Sunlight Foundation](http://sunlightfoundation.com)*
+Parker Higgins, *[Electronic Frontier Foundation](https://www.eff.org)*
 
-Joseph Lorenzo Hall<br/>
+Michael Weinberg, *[Public Knowledge](http://publicknowledge.org/)*
+
 *[Center for Democracy and Technology](https://www.cdt.org/)*
 
-Parker Higgins<br/>
-*[Electronic Frontier Foundation](https://www.eff.org)*
+*[OpenGov Foundation](http://opengovfoundation.org/)*
 
-Michael Weinberg<br/>
-*[Public Knowledge](http://publicknowledge.org/)*
+*[Public.Resource.Org](http://public.resource.org/)*
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
 
