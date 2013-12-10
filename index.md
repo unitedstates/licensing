@@ -104,7 +104,7 @@ Michael Weinberg, *[Public Knowledge](http://publicknowledge.org/)*
 
 *[OpenGov Foundation](http://opengovfoundation.org/)*
 
-*[Public.Resource.Org](http://public.resource.org/)*
+*[Public.Resource.Org](https://public.resource.org/)*
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
 
