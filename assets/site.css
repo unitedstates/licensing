@@ -28,7 +28,8 @@ nav ul, nav ol, nav li {
 nav {
   width: 200px; margin-left: -240px;
   float: left; position: fixed;
-  margin-top: 28px;
+  margin-top: 18px;
+  font-size: 11pt;
 }
 
 nav ul {
@@ -51,7 +52,11 @@ nav ul li.active a {
   background-color: #444;
 }
 
-nav p {padding: 5px 10px;}
+nav p {
+  padding: 2px 10px;
+  line-height: 20px;
+  font-size: 10pt;
+}
 
 nav p a {
   text-decoration: none;
@@ -71,7 +76,11 @@ article h3 {font-size: 18pt; margin-top: 0;}
 article h4 {font-size: 16pt; margin-top: 0; padding-top: 30px; margin-bottom: 10px;}
 article a {color: #036;}
 
-article p.dateline {margin-bottom: 10px; text-align: right; color: #444;}
+article p.dateline {
+  text-align: right;
+  color: #444;
+  margin-bottom: 0px;
+}
 article p.small {font-size: 10pt;}
 
 article ul.people, article ul.people li {
