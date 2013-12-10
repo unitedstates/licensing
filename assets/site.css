@@ -79,6 +79,8 @@ article h3 {font-size: 18pt; margin-top: 0;}
 article h4 {font-size: 16pt; margin-top: 0; padding-top: 30px; margin-bottom: 10px;}
 article a {color: #036;}
 
+article blockquote {padding: 1px 0;} /* 1px triggers a much bigger pad */
+
 article p.dateline {
   text-align: right;
   color: #444;
@@ -95,7 +97,3 @@ article ul.people, article ul.people li {
 
 article ul.people a {text-decoration: none; font-weight: bold;}
 article ul.people a:hover {text-decoration: underline; color: #111;}
-
-article ul.contributors {
-
-}
