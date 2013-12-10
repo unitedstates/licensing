@@ -88,7 +88,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 [5]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
 [6]: http://opendatacommons.org/licenses/pddl/
 
-#### Contributors
+#### Authors
 
 * Joshua Tauberer, [GovTrack.us](http://www.govtrack.us) (primary author)
 * Eric Mill, [Sunlight Foundation](http://sunlightfoundation.com)
