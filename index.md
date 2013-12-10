@@ -4,8 +4,6 @@ permalink: /
 filename: index.md
 ---
 
-<p class="dateline">December 12, 2013</p>
-
 ## Open Government Data
 
 ### Best-Practices Language for Making Data “License-Free”
