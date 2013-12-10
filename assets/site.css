@@ -10,7 +10,10 @@ body {
   margin: 0; padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {font-family: "Average", "Georgia", "Times New Roman", serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Average", "Georgia", "Times New Roman", serif;
+  font-weight: normal;
+}
 
 .main {width: 100%;}
 .main .inner {width: 700px; margin: 0 auto;}
