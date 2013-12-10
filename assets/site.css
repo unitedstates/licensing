@@ -81,6 +81,8 @@ article a {color: #036;}
 
 article blockquote {padding: 1px 0;} /* 1px triggers a much bigger pad */
 
+article blockquote {color: #444; font-style: italic;}
+
 article p.dateline {
   text-align: right;
   color: #444;
