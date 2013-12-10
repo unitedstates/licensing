@@ -100,6 +100,8 @@ Michael Weinberg, *[Public Knowledge](http://publicknowledge.org/)*
 
 *[Center for Democracy and Technology](https://www.cdt.org/)*
 
+*[Free Law Project](http://freelawproject.org/)*
+
 *[OpenGov Foundation](http://opengovfoundation.org/)*
 
 *[Public.Resource.Org](http://public.resource.org/)*
@@ -110,4 +112,4 @@ We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their disc
 
 August 19, 2013. First published.
 
-December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Added OKFN (removed the asterisk), EFF, Public Knowledge, OpenGov Foundation, Public Resource.
+December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Added OKFN (removed the asterisk), EFF, Public Knowledge, Free Law Project, OpenGov Foundation, Public Resource.
