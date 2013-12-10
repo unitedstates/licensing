@@ -90,11 +90,11 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 
 #### Authors
 
-* Joshua Tauberer, [GovTrack.us](http://www.govtrack.us) (primary author)
-* Eric Mill, [Sunlight Foundation](http://sunlightfoundation.com)
-* Jonathan Gray, [Open Knowledge Foundation](http://okfn.org)
-* Parker Higgins, [Electronic Frontier Foundation](https://www.eff.org)
-* Michael Weinberg, [Public Knowledge](http://publicknowledge.org/)
+* Joshua Tauberer, GovTrack.us (primary author)
+* Eric Mill, Sunlight Foundation
+* Jonathan Gray, Open Knowledge Foundation
+* Parker Higgins, Electronic Frontier Foundation
+* Michael Weinberg, Public Knowledge
 {:.contributors.people}
 
 #### Supporters
