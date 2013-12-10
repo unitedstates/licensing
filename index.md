@@ -75,16 +75,16 @@ Click-through end user agreements and other terms of use statements that bind th
 
 The same principles outlined here for data also apply to software. In software licensing, two unique concerns arise. First, can the CC0 Public Domain Dedication be used for software? According to Creative Commons, [CC0 may be used for software](http://wiki.creativecommons.org/CC0_FAQ) and CC0 is compatible with many open source software licenses. (This differs from the Creative Commons licenses, like CC-BY, which are not compatible with open source licenses, but recall that CC0 is a waiver and not a license.) Second, does CC0 disclaim warranties as software licenses typically do? Yes, CC0 includes a disclaimer of warranties very similar to typical software licenses. Unfortunately the Open Source Initiative has [not specifically approved](http://opensource.org/faq#cc-zero) CC0 as open source. However, our goal is this document is not to advocate for open source but to address a higher standard held for government works. For these reasons we believe the recommended language we present for data above can and should be used for software created by government as well.
 
-The Open Data Commons Public Domain Dedication and License (PDDL) is very similar to the Creative Commons CC0. It may be used in place of CC0.
+The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very similar to the Creative Commons CC0. It may be used in place of CC0.
 
 "Open licensing" presumes copyright protection. Note that the CC0 Public Domain Dedication is, mostly, not a license but rather a waiver. Be careful not to call use of CC0 "open licensing." Where the waiver within CC0 is ineffective for any reason, CC0 contains a fallback public license that permits worldwide reuse.
 
-[1]: http://opengovdata.org "Open Government Working Group 2007"
+[1]: https://public.resource.org/8_principles.html "Open Government Working Group 2007"
 [2]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
 [3]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
 [4]: http://opendefinition.org/
 [5]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
-[6]: http://creativecommons.org/publicdomain/mark/1.0/
+[6]: http://opendatacommons.org/licenses/pddl/
 
 #### Contributors and Supporters
 
@@ -110,3 +110,9 @@ Michael Weinberg<br/>
 *[Public Knowledge](http://publicknowledge.org/)*
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
+
+#### History
+
+August 19, 2013. First published.
+
+December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Added OKFN (removed the asterisk), EFF, and PK.
