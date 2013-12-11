@@ -16,9 +16,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main {width: 100%;}
-.main .inner {width: 700px; margin: 0 auto;}
-
-.main .inner {padding-bottom: 20px;}
+.main .inner {
+  width: 700px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
 
 
 /* sidebar nav */
@@ -104,3 +106,32 @@ article ul.people, article ul.people li {
 
 article ul.people a {text-decoration: none; font-weight: bold;}
 article ul.people a:hover {text-decoration: underline; color: #111;}
+
+/* Some real basic mobile-friendliness */
+@media (max-width: 600px)  {
+  nav ul {
+    display: none;
+  }
+  nav {
+    float: none; position: static; width: inherit; margin-left: 0;
+    margin-bottom: 30px;
+  }
+  nav p {
+    font-size: 11pt;
+    margin: 0; padding: 0 !important;
+    margin-right: 3px;
+    display: inline;
+  }
+  .main {width: inherit;}
+  .main .inner {
+    margin: 0;
+    padding: 20px;
+    width: inherit;
+  }
+  body {
+    min-width: inherit;
+  }
+  article p.dateline {
+    text-align: left; margin-bottom: 10px;
+  }
+}
