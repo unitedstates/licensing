@@ -103,7 +103,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [Eric Mill](https://twitter.com/konklone), Sunlight Foundation
 * [Jonathan Gray](https://twitter.com/jwyg), Open Knowledge Foundation
 * [Parker Higgins](https://twitter.com/xor), Electronic Frontier Foundation
-* Michael Weinberg, Public Knowledge
+* [Michael Weinberg](https://twitter.com/mweinbergPK), Public Knowledge
 {:.contributors.people}
 
 #### Supporters
