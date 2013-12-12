@@ -20,7 +20,7 @@ Leading open data standards and principles, such as the [8 Principles of Open Go
 
 #### What You Need to Know
 
-1. Data is “license-free” only if a) copyright, and similar laws do not apply or have been waived, and b) there are no restrictions on use or sharing of the data except as set forth in existing law.
+1. Data is “license-free” only if a) copyright and similar laws do not apply or have been waived, and b) there are no restrictions on use or sharing of the data except as set forth in existing law.
 2. Copyright applies to some government data but not others (and never to U.S. law). When it applies to public information, it should be waived so that the public can use it without restriction.
 3. Government data should be dedicated to the public domain and not licensed. Licensing (including open licensing) builds on copyright and other related rights, and the use of licensing is contrary to the long tradition that federal government data is in the public domain.
 4. Data is more valuable when it is clear that there is a green light enabling reuse.
