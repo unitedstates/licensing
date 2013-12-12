@@ -120,6 +120,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * Jim Harper, [WashingtonWatch.com](http://www.washingtonwatch.com/)
 * [Citizens for Responsibility and Ethics in Washington](http://www.citizensforethics.org/)
 * [MuckRock](https://www.muckrock.com/)
+* [Data Transparency Coalition](http://datacoalition.org/)
 {:.supporters.people}
 
 We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
