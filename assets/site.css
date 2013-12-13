@@ -74,6 +74,7 @@ nav p a:hover {
   color: #111;
 }
 
+
 /* document styling */
 
 article h2 {font-size: 24pt; margin-top: 0px; margin-bottom: 20px;}
@@ -81,11 +82,11 @@ article h3 {font-size: 18pt; margin-top: 0;}
 article h4 {font-size: 16pt; margin-top: 0; padding-top: 30px; margin-bottom: 10px;}
 article a {color: #036;}
 
-/* 1px triggers a much bigger pad */
 article blockquote {
-  margin: 30px 30px;
+  margin: 10px 30px;
   color: #444; font-style: italic;
 }
+
 article .example {
   font-style: italic;
   background-color: #eeeeee;
@@ -111,11 +112,16 @@ article ul.people, article ul.people li {
 article ul.people a {text-decoration: none; font-weight: bold;}
 article ul.people a:hover {text-decoration: underline; color: #111;}
 
+
 /* Some real basic mobile-friendliness */
+
 @media (max-width: 600px)  {
+  /* hide the actual nav */
   nav ul {
     display: none;
   }
+
+  /* let the links and small paragraphs become one paragraph, at the top */
   nav {
     float: none; position: static; width: inherit; margin-left: 0;
     margin-bottom: 30px;
@@ -126,6 +132,8 @@ article ul.people a:hover {text-decoration: underline; color: #111;}
     margin-right: 3px;
     display: inline;
   }
+
+  /* now the doc is just taking up the whole width */
   .main {width: inherit;}
   .main .inner {
     margin: 0;
@@ -135,9 +143,13 @@ article ul.people a:hover {text-decoration: underline; color: #111;}
   body {
     min-width: inherit;
   }
+
+  /* move back to the left */
   article p.dateline {
     text-align: left; margin-bottom: 10px;
   }
+
+  /* headers wrap to multiple lines on mobile */
   h2 {line-height: 35px;}
   h3 {line-height: 30px;}
 }
