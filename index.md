@@ -21,11 +21,11 @@ Leading open data standards and principles, such as the [8 Principles of Open Go
 #### What You Need to Know
 
 1. Data is “license-free” only if a) copyright and similar laws do not apply or have been waived, and b) there are no restrictions on use or sharing of the data except as set forth in existing law.
-2. Copyright applies to some government data but not others (and never to U.S. law). When it applies to public information, it should be waived so that the public can use it without restriction.
+2. Copyright applies to some government data but not others ([and never to U.S. law][2]). When it applies to public information, it should be waived so that the public can use it without restriction.
 3. Government data should be dedicated to the public domain and not licensed. Licensing (including open licensing) builds on copyright and other related rights, and the use of licensing is contrary to the long tradition that federal government data is in the public domain.
 4. Data is more valuable when it is clear that there is a green light enabling reuse.
-5. [Foreign copyright may apply to any government data.][2] A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
-6. The [Creative Commons CC0 Public Domain Dedication][3] is a widely adopted legal tool allowing a creator to dedicate his/her work to the public domain worldwide. CC0 waives any and all domestic and foreign copyright protections and related rights over a work to whatever extent that they can be waived.
+5. [Foreign copyright may apply to any government data.][3] A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
+6. The [Creative Commons CC0 Public Domain Dedication][4] is a widely adopted legal tool allowing a creator to dedicate his/her work to the public domain worldwide. CC0 waives any and all domestic and foreign copyright protections and related rights over a work to whatever extent that they can be waived.
 
 We provide below recommended language for five common situations. The language should be placed in the data package’s README or LICENSE file, at a minimum, and in data catalog listings when possible.
 
@@ -40,7 +40,7 @@ This language is in use by the Department of Health & Human Services's [ckanext-
 
 It is incumbent on the agency to attempt to determine the intellectual property status of any work it publishes as open data. If the status of a work is unclear, it should be clearly marked as such, such as with a notice that the work may not be a work of the United States Government.
 
-When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
+When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of [the Open Definition][5] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
 
 The White House's [Project Open Data](http://project-open-data.github.io/) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](http://www.whitehouse.gov/) also uses a mixed approach at [http://www.whitehouse.gov/copyright](http://www.whitehouse.gov/copyright).
 {:.example}
@@ -63,7 +63,7 @@ Note that most data is not copyrightable as such, though compilations of same ma
 
 #### For Primary Legal Materials
 
-The courts have ruled that the law — i.e. edicts of government — is not protected by copyright (see Banks v. Manchester, 128 U.S. 244, 253 (1888) and other cases). This has also been [the position of the U.S. Copyright Office][5].
+The courts have ruled that the law — i.e. edicts of government — is not protected by copyright (see Banks v. Manchester, 128 U.S. 244, 253 (1888) and other cases). This has also been [the position of the U.S. Copyright Office][6].
 
 For federal government primary legal materials, the language for federal government works listed above will typically suffice. For avoidance of doubt and to ensure unrestricted availability worldwide, if the law includes components that may not clearly fall into one of the categories above, such as standards incorporated by reference, we recommend the following:
 
@@ -86,16 +86,17 @@ Second, does CC0 disclaim warranties, as software licenses typically do? Yes, CC
 
 For these reasons, we believe the recommended language we present for data above can and should be used for software created by government as well.
 
-The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very similar to the Creative Commons CC0. It may be used in place of CC0.
+The [Open Data Commons Public Domain Dedication and License (PDDL)][7] is very similar to the Creative Commons CC0. It may be used in place of CC0.
 
 "Open licensing" presumes copyright protection. Note that the CC0 Public Domain Dedication is, mostly, not a license, but rather a waiver. Be careful not to call the use of CC0 "open licensing." Where the waiver within CC0 is ineffective for any reason, CC0 contains a fallback public license that permits worldwide reuse.
 
 [1]: https://public.resource.org/8_principles.html "Open Government Working Group 2007"
-[2]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
-[3]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
-[4]: http://opendefinition.org/
-[5]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
-[6]: http://opendatacommons.org/licenses/pddl/
+[2]: http://www.copyrightcompendium.com/#206.01 "United States Copyright Office's Compendium II of Copyright Office Practices"
+[3]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
+[4]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+[5]: http://opendefinition.org/
+[6]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
+[7]: http://opendatacommons.org/licenses/pddl/
 
 #### Authors
 
