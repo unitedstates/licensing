@@ -47,7 +47,7 @@ The White House's [Project Open Data](http://project-open-data.github.io/) requi
 
 If a statutory exemption to 17 USC § 105 is applicable, use:
 
-> This is a work of the United States Government that is exempt from 17 USC § 105. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> This is a work of the United States Government that is exempt from 17 USC § 105. However, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
 
 #### For Government Works Produced by a Contractor
 
