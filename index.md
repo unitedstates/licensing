@@ -111,6 +111,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [GovTrack.us](https://www.govtrack.us)
 * [Sunlight Foundation](http://sunlightfoundation.com)
 * [Open Knowledge Foundation](http://okfn.org)
+* [Creative Commons](https://creativecommons.org)
 * [Center for Democracy and Technology](https://www.cdt.org/)
 * [Electronic Frontier Foundation](https://www.eff.org)
 * [Public Knowledge](http://publicknowledge.org/)
