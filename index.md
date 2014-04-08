@@ -24,7 +24,7 @@ Leading open data standards and principles, such as the [8 Principles of Open Go
 2. Copyright applies to some government data but not others ([and never to U.S. law][5]). When it applies to public information, it should be waived so that the public can use it without restriction.
 3. Government data should be dedicated to the public domain and not licensed. Licensing (including open licensing) builds on copyright and other related rights, and the use of licensing is contrary to the long tradition that federal government data is in the public domain.
 4. Data is more valuable when it is clear that there is a green light enabling reuse.
-5. [Foreign copyright may apply to any government data.][2] A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
+5. [Foreign copyright may apply to any government data][2] (see [excerpt](https://en.wikisource.org/wiki/Page:H.R._Rep._No._94-1476_(1976)_Page_059.djvu), paragraph 3). A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
 6. The [Creative Commons CC0 Public Domain Dedication][3] is a widely adopted legal tool allowing a creator to dedicate his/her work to the public domain worldwide. CC0 waives any and all domestic and foreign copyright protections and related rights over a work to whatever extent that they can be waived.
 
 We provide below recommended language for five common situations. The language should be placed in the data package’s README or LICENSE file, at a minimum, and in data catalog listings when possible.
