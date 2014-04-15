@@ -104,6 +104,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [Jonathan Gray](https://twitter.com/jwyg), Open Knowledge Foundation
 * [Parker Higgins](https://twitter.com/xor), Electronic Frontier Foundation
 * [Michael Weinberg](https://twitter.com/mweinbergPK), Public Knowledge
+* [Timothy Vollmer](http://timothyvollmer.com/), Creative Commons
 {:.contributors.people}
 
 #### Supporters
@@ -132,3 +133,5 @@ We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their disc
 [August 19, 2013](v1.html). First published.
 
 December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Updated signers list.
+
+April 7/15, 2013. Added Creative Commons as a supporter; added Timothy Vollmer as an author.
