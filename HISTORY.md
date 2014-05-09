@@ -17,3 +17,7 @@ Some background on this document and why it exists, in rough chronological order
 * October 22, 2013. The **[@cfpb](https://github.com/cfpb)** then also took its [eRegs platform](http://eregs.github.io/eregulations/) and [licensed it as CC0 internationally](https://github.com/eregs/eregulations/pull/6), citing the Project Open Data and qu threads.
 
 * December 12, 2013. Version 2 of this document was released at [theunitedstates.io/licensing](http://theunitedstates.io/licensing/). It includes a rewritten introduction, guidance on licensing software, and a number of other tweaks. A breakdown and some discussion of the changes can be found on [pull request #1](https://github.com/unitedstates/licensing/pull/1). This version was [signed onto](http://theunitedstates.io/licensing/#authors) by a wide variety of people and public interest organizations.
+
+* April 7, 2014. [Creative Commons](https://creativecommons.org/) [added its name the guidance](https://github.com/unitedstates/licensing/issues/19) as a supporter and co-author.
+
+* May 9, 2014. On the 1-year anniversary of the Memorandom on Open Data Policy, the White House released a [U.S. Open Data Action Plan](http://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf), using language from our guidance (see page 2) to release the plan into the worldwide public domain.
