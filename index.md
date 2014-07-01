@@ -21,10 +21,10 @@ Leading open data standards and principles, such as the [8 Principles of Open Go
 #### What You Need to Know
 
 1. Data is “license-free” only if a) copyright and similar laws do not apply or have been waived, and b) there are no restrictions on use or sharing of the data except as set forth in existing law.
-2. Copyright applies to some government data but not others (and never to U.S. law). When it applies to public information, it should be waived so that the public can use it without restriction.
+2. Copyright applies to some government data but not others ([and never to U.S. law][5]). When it applies to public information, it should be waived so that the public can use it without restriction.
 3. Government data should be dedicated to the public domain and not licensed. Licensing (including open licensing) builds on copyright and other related rights, and the use of licensing is contrary to the long tradition that federal government data is in the public domain.
 4. Data is more valuable when it is clear that there is a green light enabling reuse.
-5. [Foreign copyright may apply to any government data.][2] A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
+5. [Foreign copyright may apply to any government data][2] (see [excerpt](https://en.wikisource.org/wiki/Page:H.R._Rep._No._94-1476_(1976)_Page_059.djvu), paragraph 3). A waiver of foreign copyright protections is suggested, especially if foreign use of the data is important.
 6. The [Creative Commons CC0 Public Domain Dedication][3] is a widely adopted legal tool allowing a creator to dedicate his/her work to the public domain worldwide. CC0 waives any and all domestic and foreign copyright protections and related rights over a work to whatever extent that they can be waived.
 
 We provide below recommended language for five common situations. The language should be placed in the data package’s README or LICENSE file, at a minimum, and in data catalog listings when possible.
@@ -94,7 +94,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 [2]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
 [3]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
 [4]: http://opendefinition.org/
-[5]: http://ipmall.info/hosted_resources/copyrightcompendium.asp "Compendium II: Copyright Office Practices. 1998. Section 206.01."
+[5]: http://www.copyrightcompendium.com/#206.01 "United States Copyright Office's Compendium II of Copyright Office Practices"
 [6]: http://opendatacommons.org/licenses/pddl/
 
 #### Authors
@@ -104,6 +104,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [Jonathan Gray](https://twitter.com/jwyg), Open Knowledge Foundation
 * [Parker Higgins](https://twitter.com/xor), Electronic Frontier Foundation
 * [Michael Weinberg](https://twitter.com/mweinbergPK), Public Knowledge
+* [Timothy Vollmer](http://timothyvollmer.com/), Creative Commons
 {:.contributors.people}
 
 #### Supporters
@@ -111,6 +112,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [GovTrack.us](https://www.govtrack.us)
 * [Sunlight Foundation](http://sunlightfoundation.com)
 * [Open Knowledge Foundation](http://okfn.org)
+* [Creative Commons](https://creativecommons.org)
 * [Center for Democracy and Technology](https://www.cdt.org/)
 * [Electronic Frontier Foundation](https://www.eff.org)
 * [Public Knowledge](http://publicknowledge.org/)
@@ -131,3 +133,8 @@ We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their disc
 [August 19, 2013](v1.html). First published.
 
 December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Updated signers list.
+
+April 7/15, 2013. Added Creative Commons as a supporter; added Timothy Vollmer as an author.
+
+This document itself is <a href="https://github.com/unitedstates/licensing">hosted on GitHub</a>, and released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 1.0 Universal public domain dedication</a>.
+{:.small}
