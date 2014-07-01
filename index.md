@@ -125,7 +125,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [Data Transparency Coalition](http://datacoalition.org/)
 {:.supporters.people}
 
-We also thank Timothy Vollmer, Puneet Kishor, and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
+We also thank Puneet Kishor and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
 {:.small}
 
 #### History
