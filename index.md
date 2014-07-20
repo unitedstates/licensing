@@ -134,7 +134,7 @@ We also thank Puneet Kishor and other reviewers for their discussion and ideas, 
 
 December 12, 2013. Rewrote the introduction. Removed "However"s in the suggested language. Added sections on determining IP status, that data is not copyrightable as such, and that this applies to software as well as data. Corrected typos. Updated signers list.
 
-April 7/15, 2013. Added Creative Commons as a supporter; added Timothy Vollmer as an author.
+April 7/15, 2014. Added Creative Commons as a supporter; added Timothy Vollmer as an author.
 
 This document itself is <a href="https://github.com/unitedstates/licensing">hosted on GitHub</a>, and released under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 1.0 Universal public domain dedication</a>.
 {:.small}
