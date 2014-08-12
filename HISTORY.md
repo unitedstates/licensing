@@ -21,3 +21,5 @@ Some background on this document and why it exists, in rough chronological order
 * April 7, 2014. [Creative Commons](https://creativecommons.org/) [added its name the guidance](https://github.com/unitedstates/licensing/issues/19) as a supporter and co-author.
 
 * May 9, 2014. On the 1-year anniversary of the Memorandom on Open Data Policy, the White House released a [U.S. Open Data Action Plan](http://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf), using language from our guidance (see page 2) to release the plan into the worldwide public domain.
+
+* August 12, 2014. The United States Digital Service (USDS) launches, along with a "Playbook" including a checklist on [defaulting to open](http://playbook.cio.gov/#play13) that specifically calls for dedicating government data to the international public domain and cites CC0.
