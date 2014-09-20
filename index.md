@@ -33,7 +33,7 @@ We provide below recommended language for five common situations. The language s
 
 Copyright protection is not available for works of the United States Government under 17 USC § 105 unless a specific exemption applies. We recommend the following language when the data is believed to not be copyrightable:
 
-> As a work of the United States Government, this package is in the public domain within the United States. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> As a work of the United States Government, this package is in the public domain within the United States. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 This language is in use by the Department of Health & Human Services's [ckanext-datajson project](https://github.com/HHS/ckanext-datajson) and the Consumer Financial Protection Bureau's [qu project](https://github.com/cfpb/qu), both on github.com.
 {:.example}
@@ -47,17 +47,17 @@ The White House's [Project Open Data](http://project-open-data.github.io/) requi
 
 If a statutory exemption to 17 USC § 105 is applicable, use:
 
-> This is a work of the United States Government that is exempt from 17 USC § 105. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> This is a work of the United States Government that is exempt from 17 USC § 105. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 #### For Government Works Produced by a Contractor
 
 Works produced under a contract with the government may be subject to copyright protection. Any such contract should specify that any copyright in the work is transferred to the government. Works can then be shared with the following language:
 
-> This work was created through a government contract which assigned copyright to [the United States Government or Agency name]. [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> This work was created through a government contract which assigned copyright to [the United States Government or Agency name]. [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 Or if copyright remains with the contractor, use:
 
-> This work was produced by [Contractor Name] in the performance of a contract with \[Agency Name\] (contract number [contract number]). [Contractor Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> This work was produced by [Contractor Name] in the performance of a contract with \[Agency Name\] (contract number [contract number]). [Contractor Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 Note that most data is not copyrightable as such, though compilations of same may be copyrightable. For instance, in the United States facts cannot be copyrighted. You should avoid implying copyright exists on works that are not within the domain of copyright law. However, use of the CC0 waiver is appropriate when there is any ambiguity.
 
@@ -67,7 +67,7 @@ The courts have ruled that the law — i.e. edicts of government — is not prot
 
 For federal government primary legal materials, the language for federal government works listed above will typically suffice. For avoidance of doubt and to ensure unrestricted availability worldwide, if the law includes components that may not clearly fall into one of the categories above, such as standards incorporated by reference, we recommend the following:
 
-> This work contains laws, which are not subject to U.S. copyright protection. For avoidance of doubt and to ensure unrestricted availability worldwide, [Body] expressly waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)).
+> This work contains laws, which are not subject to U.S. copyright protection. For avoidance of doubt and to ensure unrestricted availability worldwide, [Body] expressly waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 When publishing laws along side annotations in which copyright protections are asserted, we strongly recommend publishing an un-annotated copy of the law with the statement above.
 
@@ -80,7 +80,7 @@ Click-through end user agreements, and other terms of use statements that bind t
 
 The same principles outlined here for data also apply to software. In software licensing, two unique concerns arise.
 
-First, can the CC0 Public Domain Dedication be used for software? According to Creative Commons, [CC0 may be used for software](http://wiki.creativecommons.org/CC0_FAQ) and CC0 is compatible with many open source software licenses. (This differs from the Creative Commons licenses, like CC-BY, which are not compatible with open source licenses — but recall that CC0 is a waiver and not a license.)
+First, can the CC0 Public Domain Dedication be used for software? According to Creative Commons, [CC0 may be used for software](https://wiki.creativecommons.org/CC0_FAQ) and CC0 is compatible with many open source software licenses. (This differs from the Creative Commons licenses, like CC-BY, which are not compatible with open source licenses — but recall that CC0 is a waiver and not a license.)
 
 Second, does CC0 disclaim warranties, as software licenses typically do? Yes, CC0 includes a disclaimer of warranties very similar to typical software licenses. Unfortunately, the Open Source Initiative has [not specifically approved](http://opensource.org/faq#cc-zero) CC0 as open source. However, our goal is this document is not to advocate for open source, but to address a higher standard held for government works.
 
@@ -92,7 +92,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 
 [1]: https://public.resource.org/8_principles.html "Open Government Working Group 2007"
 [2]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
-[3]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+[3]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 [4]: http://opendefinition.org/
 [5]: http://www.copyrightcompendium.com/#206.01 "United States Copyright Office's Compendium II of Copyright Office Practices"
 [6]: http://opendatacommons.org/licenses/pddl/
