@@ -10,6 +10,9 @@ December 12, 2013
 
 ### Best-Practices Language for Making Data “License-Free”
 
+**The short version**: To the greatest extent possible, U.S. public government data should be “license-free”. Here's how to use the [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode) to make data license-free.
+{:.example}
+
 Public data generated or commissioned by government bodies is becoming an increasingly important part of the public sphere — from new forms of civic participation, journalism, transparency and accountability to new opportunities for innovation and growth.
 
 As open data guidelines evolve to meet current practices, including new goals from the White House and the increasing role of government contractors in the production of public government data, it is essential that U.S. federal government agencies have the tools to preserve the United States' long legal tradition of ensuring that public information created by the federal government is exempt from U.S. copyright and remains free for everyone to use without restriction.
