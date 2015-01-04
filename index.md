@@ -34,7 +34,7 @@ We provide below recommended language for five common situations. The language s
 
 #### For U.S. Federal Government Works
 
-Copyright protection is not available for works of the United States Government under 17 USC § 105 unless a specific exemption applies. We recommend the following language when the data is believed to not be copyrightable:
+Copyright protection is not available for works of the United States Government under [17 USC § 105](http://www.law.cornell.edu/uscode/text/17/105) unless a specific exemption applies. We recommend the following language when the data is believed to not be copyrightable:
 
 > As a work of the United States Government, this package is in the public domain within the United States. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
@@ -48,7 +48,7 @@ When mixing government and non-government works, such as on an official governme
 The White House's [Project Open Data](http://project-open-data.github.io/) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](http://www.whitehouse.gov/) also uses a mixed approach at [http://www.whitehouse.gov/copyright](http://www.whitehouse.gov/copyright).
 {:.example}
 
-If a statutory exemption to 17 USC § 105 is applicable, use:
+If a statutory exemption to [17 USC § 105](http://www.law.cornell.edu/uscode/text/17/105) is applicable, use:
 
 > This is a work of the United States Government that is exempt from 17 USC § 105. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
