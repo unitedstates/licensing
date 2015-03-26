@@ -45,7 +45,7 @@ It is incumbent on the agency to attempt to determine the intellectual property 
 
 When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
 
-The White House's [Project Open Data](https://project-open-data.cio.gov) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](https://www.whitehouse.gov) also uses a mixed approach at [http://www.whitehouse.gov/copyright](https://www.whitehouse.gov/copyright).
+The White House's [Project Open Data](https://project-open-data.cio.gov) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](https://www.whitehouse.gov) also uses a mixed approach at [https://www.whitehouse.gov/copyright](https://www.whitehouse.gov/copyright).
 {:.example}
 
 If a statutory exemption to [17 USC § 105](https://www.law.cornell.edu/uscode/text/17/105) is applicable, use:
