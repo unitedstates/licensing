@@ -16,7 +16,7 @@ Some background on this document and why it exists, in rough chronological order
 
 * October 22, 2013. The **[@cfpb](https://github.com/cfpb)** then also took its [eRegs platform](https://cfpb.github.io/eRegulations/) and [licensed it as CC0 internationally](https://github.com/eregs/eregulations/pull/6), citing the Project Open Data and qu threads.
 
-* December 12, 2013. Version 2 of this document was released at [theunitedstates.io/licensing](http://theunitedstates.io/licensing/). It includes a rewritten introduction, guidance on licensing software, and a number of other tweaks. A breakdown and some discussion of the changes can be found on [pull request #1](https://github.com/unitedstates/licensing/pull/1). This version was [signed onto](http://theunitedstates.io/licensing/#authors) by a wide variety of people and public interest organizations.
+* December 12, 2013. Version 2 of this document was released at [theunitedstates.io/licensing](https://theunitedstates.io/licensing/). It includes a rewritten introduction, guidance on licensing software, and a number of other tweaks. A breakdown and some discussion of the changes can be found on [pull request #1](https://github.com/unitedstates/licensing/pull/1). This version was [signed onto](https://theunitedstates.io/licensing/#authors) by a wide variety of people and public interest organizations.
 
 * April 7, 2014. [Creative Commons](https://creativecommons.org/) [added its name the guidance](https://github.com/unitedstates/licensing/issues/19) as a supporter and co-author.
 
