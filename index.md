@@ -34,7 +34,7 @@ We provide below recommended language for five common situations. The language s
 
 #### For U.S. Federal Government Works
 
-Copyright protection is not available for works of the United States Government under [17 USC § 105](http://www.law.cornell.edu/uscode/text/17/105) unless a specific exemption applies. We recommend the following language when the data is believed to not be copyrightable:
+Copyright protection is not available for works of the United States Government under [17 USC § 105](https://www.law.cornell.edu/uscode/text/17/105) unless a specific exemption applies. We recommend the following language when the data is believed to not be copyrightable:
 
 > As a work of the United States Government, this package is in the public domain within the United States. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
@@ -45,10 +45,10 @@ It is incumbent on the agency to attempt to determine the intellectual property 
 
 When mixing government and non-government works, such as on an official government blog with public contributors, we recommend that the non-governmental contributors be required to waive copyright protection to their submissions in a similar manner as above. In some instances, such as contributions to a blog, licensing non-governmental contributions in a manner that meets the requirements of [the Open Definition][4] may be appropriate, but bear in mind that such contributions would not be “license-free”, as per the discussion above. In that case, material which is openly licensed rather than license-free should be clearly marked as such in a machine-processable manner.
 
-The White House's [Project Open Data](http://project-open-data.github.io/) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](http://www.whitehouse.gov/) also uses a mixed approach at [http://www.whitehouse.gov/copyright](http://www.whitehouse.gov/copyright).
+The White House's [Project Open Data](https://project-open-data.cio.gov) requires outside contributors to waive copyright using CC0. [WhiteHouse.gov](https://www.whitehouse.gov) also uses a mixed approach at [https://www.whitehouse.gov/copyright](https://www.whitehouse.gov/copyright).
 {:.example}
 
-If a statutory exemption to [17 USC § 105](http://www.law.cornell.edu/uscode/text/17/105) is applicable, use:
+If a statutory exemption to [17 USC § 105](https://www.law.cornell.edu/uscode/text/17/105) is applicable, use:
 
 > This is a work of the United States Government that is exempt from 17 USC § 105. Additionally, [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)).
 
@@ -96,7 +96,7 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 [1]: https://public.resource.org/8_principles.html "Open Government Working Group 2007"
 [2]: http://www.copyright.gov/history/law/clrev_94-1476.pdf "House Report 94-1476, page 59."
 [3]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
-[4]: http://opendefinition.org/
+[4]: http://opendefinition.org
 [5]: http://www.copyrightcompendium.com/#206.01 "United States Copyright Office's Compendium II of Copyright Office Practices"
 [6]: http://opendatacommons.org/licenses/pddl/
 
@@ -107,25 +107,25 @@ The [Open Data Commons Public Domain Dedication and License (PDDL)][6] is very s
 * [Jonathan Gray](https://twitter.com/jwyg), Open Knowledge Foundation
 * [Parker Higgins](https://twitter.com/xor), Electronic Frontier Foundation
 * [Michael Weinberg](https://twitter.com/mweinbergPK), Public Knowledge
-* [Timothy Vollmer](http://timothyvollmer.com/), Creative Commons
+* [Timothy Vollmer](http://timothyvollmer.com), Creative Commons
 {:.contributors.people}
 
 #### Supporters
 
 * [GovTrack.us](https://www.govtrack.us)
-* [Sunlight Foundation](http://sunlightfoundation.com)
-* [Open Knowledge Foundation](http://okfn.org)
+* [Sunlight Foundation](https://sunlightfoundation.com)
+* [Open Knowledge Foundation](https://okfn.org)
 * [Creative Commons](https://creativecommons.org)
-* [Center for Democracy and Technology](https://www.cdt.org/)
+* [Center for Democracy and Technology](https://www.cdt.org)
 * [Electronic Frontier Foundation](https://www.eff.org)
-* [Public Knowledge](http://publicknowledge.org/)
-* [Free Law Project](http://freelawproject.org/)
-* [OpenGov Foundation](http://opengovfoundation.org/)
-* Carl Malamud, [Public.Resource.Org](https://public.resource.org/)
-* Jim Harper, [WashingtonWatch.com](http://www.washingtonwatch.com/)
-* [Citizens for Responsibility and Ethics in Washington](http://www.citizensforethics.org/)
-* [MuckRock](https://www.muckrock.com/)
-* [Data Transparency Coalition](http://datacoalition.org/)
+* [Public Knowledge](https://www.publicknowledge.org)
+* [Free Law Project](http://freelawproject.org)
+* [OpenGov Foundation](http://opengovfoundation.org)
+* Carl Malamud, [Public.Resource.Org](https://public.resource.org)
+* Jim Harper, [WashingtonWatch.com](https://www.washingtonwatch.com)
+* [Citizens for Responsibility and Ethics in Washington](http://www.citizensforethics.org)
+* [MuckRock](https://www.muckrock.com)
+* [Data Transparency Coalition](http://datacoalition.org)
 {:.supporters.people}
 
 We also thank Puneet Kishor and other reviewers for their discussion and ideas, many of which we have borrowed here. Our gratitude does not imply their endorsement.
