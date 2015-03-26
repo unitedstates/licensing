@@ -7,7 +7,7 @@ script: "LANG=\"en_US.UTF-8\" LC_ALL=\"en_US.UTF-8\" bundle exec jekyll build"
 notifications:
   email:
     recipients:
-      - eric@sunlightfoundation.com
+      - eric@konklone.com
       - tauberer@govtrack.us
     on_success: change
     on_failure: change
