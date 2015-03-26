@@ -1,6 +1,17 @@
 <!doctype html>
 <html>
 <head>
+
+  <!--
+  redirect users to the https version of the website.
+  but: only check when on the production domain.
+ -->
+  <script type="text/javascript">
+    var enforce = "theunitedstates.io";
+    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   <title>Open Government Data: Best-Practices Language for Making Data "License-Free"</title>
 
@@ -13,7 +24,7 @@
   <link href="assets/site.css?{{ site.time | date: "%Y%m%j%H%M%S" }}" rel='stylesheet' type='text/css'>
 
   <meta property="og:title" content="Open Government Data: Best-Practices Language for Making Data &quot;License-Free&quot;" />
-  <meta property="og:image" content="https://0.gravatar.com/avatar/13407a4bedf3a760924bb0dd57d776d0?&amp;s=440" />
+  <meta property="og:image" content="https://theunitedstates.io/assets/og-image.png" />
   <meta property="og:description" content="Guidance for releasing public government data in the United States." />
   <meta name="twitter:card" content="summary" />
 
@@ -66,7 +77,7 @@
       </p>
 
       <p>
-        More at <a href="http://theunitedstates.io">theunitedstates.io</a>.
+        More at <a href="https://theunitedstates.io">theunitedstates.io</a>.
       </p>
 
     </nav>
@@ -77,7 +88,7 @@
   </div>
 </div>
 
-<script src="assets/js/jquery-2.0.3.min.js"></script>
+<script src="assets/jquery-2.0.3.min.js"></script>
 <script type="text/javascript">
 $(function() {
   var navLinks = $("nav ul li a").get().reverse();
