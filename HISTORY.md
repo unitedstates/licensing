@@ -22,4 +22,6 @@ Some background on this document and why it exists, in rough chronological order
 
 * May 9, 2014. On the 1-year anniversary of the Memorandom on Open Data Policy, the White House released a [U.S. Open Data Action Plan](http://www.whitehouse.gov/sites/default/files/microsites/ostp/us_open_data_action_plan.pdf), using language from our guidance (see page 2) to release the plan into the worldwide public domain.
 
+* July 29, 2014. [18F](https://18f.gsa.gov), a recently created technology and services team inside the General Services Administration, [publicly adopts](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/) an [open source policy](https://github.com/18F/open-source-policy/blob/master/policy.md) that incorporates this project's recommendations into its [default software license](https://github.com/18F/open-source-policy/blob/master/LICENSE.md).
+
 * August 12, 2014. The United States Digital Service (USDS) launches, along with a "Playbook" including a checklist on [defaulting to open](http://playbook.cio.gov/#play13) that specifically calls for dedicating government data to the international public domain and cites CC0.
