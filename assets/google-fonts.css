@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Average';
+  font-style: normal;
+  font-weight: 400;
+  /* IE6-8 compat */
+  src: url("./fonts/average-1892553368b79a42a9f31632c9f37feb15a868cb.eot");
+  src: local("Average"), 
+    local("Average-Regular"), 
+    url("./fonts/average-b77b33dc89a16ae7165c97e7929d2c0b95b0f189.woff2") format("woff2"), 
+    url("./fonts/average-f148711fbbd228c9e77ca114f592f53094e5d3e8.woff") format("woff"), 
+    url("./fonts/average-1892553368b79a42a9f31632c9f37feb15a868cb.eot") format("embedded-opentype"), 
+    url("./fonts/average-f28ac3fb6d82bf010b6ad1b6ec8b6898e31d5566.ttf") format("truetype");
+}
+
