@@ -25,3 +25,9 @@ Some background on this document and why it exists, in rough chronological order
 * July 29, 2014. [18F](https://18f.gsa.gov), a recently created technology and services team inside the General Services Administration, [publicly adopts](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/) an [open source policy](https://github.com/18F/open-source-policy/blob/master/policy.md) that incorporates this project's recommendations into its [default software license](https://github.com/18F/open-source-policy/blob/master/LICENSE.md).
 
 * August 12, 2014. The United States Digital Service (USDS) launches, along with a "Playbook" including a checklist on [defaulting to open](https://playbook.cio.gov/#play13) that specifically calls for dedicating government data to the international public domain and cites CC0.
+
+* November 23, 2015. The District of Columbia [makes CC0 the default for all DC open source projects](https://github.com/DCgov/license).
+
+* January 15, 2016. The US Census Bureau issues an [open source policy](https://github.com/uscensusbureau/open-source-policy) that [makes CC0 the default](https://github.com/uscensusbureau/open-source-policy#open-source-licenses) for Census works.
+
+
