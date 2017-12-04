@@ -1,6 +1,4 @@
 language: ruby
-rvm:
-  - 1.9.3
 
 script: "LANG=\"en_US.UTF-8\" LC_ALL=\"en_US.UTF-8\" bundle exec jekyll build"
 
